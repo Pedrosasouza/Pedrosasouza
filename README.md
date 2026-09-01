@@ -22,11 +22,11 @@ class PedroSouza:
         return "Gosto de construir projetos práticos para entender como as coisas funcionam de ponta a ponta."
 ```
 
-- 🎓 Estudante de **Sistemas de Informação** na **USP São Carlos (ICMC)**
-- 🤖 Foco em **Engenharia de Software**, **Inteligência Artificial** e **Dados**
-- 🏔️ Participei do **HackaTruck (Apple/IBM)** desenvolvendo um sistema IoT
-- 🌱 Sempre aprendendo novas tecnologias e construindo projetos práticos
-- 📫 Contato: **pedrossasouza70@gmail.com**
+- Estudante de **Sistemas de Informação** na **USP São Carlos (ICMC)**
+- Foco em **Engenharia de Software**, **Inteligência Artificial** e **Dados**
+- Participei do **HackaTruck (Apple/IBM)** desenvolvendo um sistema IoT
+- Sempre aprendendo novas tecnologias e construindo projetos práticos
+- Contato: **pedrossasouza70@gmail.com**
 
 ---
 
