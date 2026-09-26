@@ -16,7 +16,7 @@ class PedroSouza:
         self.universidade = "USP — São Carlos (ICMC)"
         self.curso = "Bacharelado em Sistemas de Informação"
         self.interesses = ["Engenharia de Software", "IA & Agentes", "Dados", "IoT"]
-        self.buscando = "Estágio em Desenvolvimento de Software"
+        self.buscando = "Oportunidade em Desenvolvimento de Software"
     
     def frase(self):
         return "Gosto de construir projetos práticos para entender como as coisas funcionam de ponta a ponta."
