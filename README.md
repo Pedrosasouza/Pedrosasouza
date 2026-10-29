@@ -63,18 +63,18 @@ class PedroSouza:
 <tr>
 <td width="50%">
 
-#### 🖥️ [StreamGrid](https://github.com/Pedrosasouza/screenshare-p2p)
-Compartilhamento de múltiplas telas em tempo real via **WebRTC P2P Mesh** com módulo nativo em **Rust (WASAPI Loopback)** para isolamento de áudio por processo (PID) no Windows.
-
-`WebRTC` `Rust` `Node.js` `Socket.io` `Neutralinojs`
-
-</td>
-<td width="50%">
-
 #### 🤖 [AcademicFlow-Agent](https://github.com/Pedrosasouza/AcademicFlow-Agent)
 Agente autônomo com **LangGraph** e **ReAct** que entende pedidos em linguagem natural, aciona ferramentas e organiza o planejamento acadêmico usando modelo local (**Ollama / Llama 3.2**).
 
 `Python` `LangGraph` `LangChain` `Ollama` `Pytest`
+
+</td>
+<td width="50%">
+
+#### 🖥️ [StreamGrid](https://github.com/Pedrosasouza/screenshare-p2p)
+Compartilhamento de múltiplas telas em tempo real via **WebRTC P2P Mesh** com módulo nativo em **Rust (WASAPI Loopback)** para isolamento de áudio por processo (PID) no Windows.
+
+`WebRTC` `Rust` `Node.js` `Socket.io` `Neutralinojs`
 
 </td>
 </tr>
