@@ -34,6 +34,7 @@ class PedroSouza:
 
 #### Linguagens & Ecossistemas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,6 +45,7 @@ class PedroSouza:
 #### Frameworks & Bibliotecas
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-3399FF?style=for-the-badge&logo=webrtc&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
@@ -61,22 +63,30 @@ class PedroSouza:
 <tr>
 <td width="50%">
 
+#### 🖥️ [StreamGrid](https://github.com/Pedrosasouza/screenshare-p2p)
+Compartilhamento de múltiplas telas em tempo real via **WebRTC P2P Mesh** com módulo nativo em **Rust (WASAPI Loopback)** para isolamento de áudio por processo (PID) no Windows.
+
+`WebRTC` `Rust` `Node.js` `Socket.io` `Neutralinojs`
+
+</td>
+<td width="50%">
+
 #### 🤖 [AcademicFlow-Agent](https://github.com/Pedrosasouza/AcademicFlow-Agent)
 Agente autônomo com **LangGraph** e **ReAct** que entende pedidos em linguagem natural, aciona ferramentas e organiza o planejamento acadêmico usando modelo local (**Ollama / Llama 3.2**).
 
 `Python` `LangGraph` `LangChain` `Ollama` `Pytest`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-#### 🏔️ [SlopeMonitor-IoT](https://github.com/Pedrosasouza/SlopeMonitor-IoT)
+#### 🏞️ [SlopeMonitor-IoT](https://github.com/Pedrosasouza/SlopeMonitor-IoT)
 Sistema IoT completo para **monitoramento de encostas e prevenção de deslizamentos**, desenvolvido no **HackaTruck (Apple/IBM)**. Sensores Arduino + app iOS com mapa em tempo real.
 
 `SwiftUI` `MapKit` `C++ Arduino` `Node-RED` `IoT`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 📅 [JavaEventPlanner](https://github.com/Pedrosasouza/JavaEventPlanner)
@@ -85,20 +95,10 @@ App desktop em **Java Swing** no padrão **MVC** para gerenciamento de eventos, 
 `Java 17+` `Swing GUI` `MVC` `POO` `File I/O`
 
 </td>
-<td width="50%">
-
-#### 🌐 [Portfólio Pessoal](https://pedrosasouza.github.io)
-Meu site pessoal com informações sobre projetos, habilidades e contato. Design responsivo com tema escuro inspirado em terminal.
-
-`HTML5` `CSS3` `JavaScript` `Responsive Design`
-
-</td>
 </tr>
 </table>
 
 ---
-
-
 
 <div align="center">
 
